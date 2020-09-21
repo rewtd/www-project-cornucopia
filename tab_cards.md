@@ -15,14 +15,19 @@ The primary source document is a [Word document](https://github.com/OWASP/www-pr
 
 ### Printed
 
-Professionally printed decks are available by two methods:
+Professionally printed decks are available for free by two methods:
 
 * Single decks or in bulk from OWASP (v1.20)
- * As promotion items by OWASP Leaders from their own chapter budgets using the [Chapter and Project Merchandise Request form](https://docs.google.com/a/owasp.org/forms/d/e/1FAIpQLSez9mV97HuqvYhCldE2hYhX3UjQM1oO5bLy44HkOZSpni0OzQ/viewform?formkey=dF85bGtvdWdrd2JjYldNZ1gxSkJxaEE6MQ)
- * For other individuals, organisations and companies, please email [lisa.jones@owasp.com](mailto:lisa.jones@owasp.com) with purchase inquiries.
-* Request a free deck of cards gifted by [Blackfoot UK Limited](http://blackfootuk.com/):
- * Request a free [pack of cards (v1.10)](http://blackfootuk.com/cornucopia/receive-a-set-of-cards/) (gifted by Blackfoot UK)
+  * As promotion items by OWASP Leaders from their own chapter budgets using the [Chapter and Project Merchandise Request form](https://docs.google.com/a/owasp.org/forms/d/e/1FAIpQLSez9mV97HuqvYhCldE2hYhX3UjQM1oO5bLy44HkOZSpni0OzQ/viewform?formkey=dF85bGtvdWdrd2JjYldNZ1gxSkJxaEE6MQ)
+  * For other individuals, organisations and companies, please email [lisa.jones@owasp.com](mailto:lisa.jones@owasp.com) with purchase inquiries.
+* Request a free deck of cards gifted by friends of the project:
+  * Request a free pack of cards (v1.10) from [Blackfoot](http://blackfootuk.com/cornucopia/receive-a-set-of-cards/) (gifted by [Blackfoot UK](http://blackfootuk.com/)); or
+  * Request a free pack of cards (v1.20, limited quantities available) from 
+    * [Equal Experts](https://www.equalexperts.com/) by joining [this webinar](https://www.equalexperts.com/expert-talks/gamification-of-threat-modelling-using-owasp-cornucopia/) on Cornucopia, or 
+    * [Secure Delivery](https://sesecuredelivery.io) by [emailing](mailto://cornucopia@esecuredelivery.io) them
 
+Although OWASP does not endorse or recommend commercial products or services, professionally printed decks (v1.20) are available to purchase from:
+* [Agile Stationary](https://agilestationery.co.uk/pages/owasp-cornucopia) at a discounted rate to OWASP members and they have created a [Croupier](https://croupier.agilestationery.co.uk/) to help distributed teams manage the dealing of hands
 
 ### Source files
 
@@ -55,8 +60,6 @@ There are also other ways to obtain particular versions:
 * Download the free [PDF](assets/files/Owasp_cornucopia_printreadyimages-1v03.zip) (v1.03) (gifted by Travelex)
  * Have the cards commercially printed; or
  * Import into your own files (such as [this way](http://lists.owasp.org/pipermail/owasp_cornucopia/2014-January/000018.html) suggested by Cam Morris via the mailing list)
-
-OWASP does not endorse or recommend commercial products or services.
 
 ### Twitter
 
