@@ -65,6 +65,7 @@ D2.	Create user stories, specifications and test cases as required for your deve
 
 See Márk Vinkovits leading a threat modelling [talk and group session](https://www.youtube.com/watch?v=9dVDqeO6y3A) playing Cornucopia in the OWASP track @hacktivityconf 1510.
 
+Watch Grant Ongers lead the RBI team in a very professionally created 15min video session [demonstrating the game](https://youtu.be/BZVoQurTEMc), designed to help development teams get to grips with Cornucopia and threat modelling in general. 
 
 ### Alternative game rules
 
